@@ -2,7 +2,7 @@
 Debug the World.
 ### Hi there, Welcome👋
 I'm Jake Jia.
-- I'm currently a freshman in WHU(WuHan University), majoring in Computer Science and pursuing a bacherlor's sedree.
+- I'm currently a freshman in WHU(WuHan University), majoring in Computer Science and pursuing a bacherlor's degree.
 
 <!--
 **Phoen1xCode/Phoen1xCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
