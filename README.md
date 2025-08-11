@@ -1,4 +1,4 @@
-# About Me
+# About Me ![](https://komarev.com/ghpvc/?username=Phoen1xCode&color=blueviolet&abbreviated=true)
 Debug the World.
 ### Hi there, Welcome👋
 I'm Jake Jia.
