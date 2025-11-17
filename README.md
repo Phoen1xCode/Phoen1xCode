@@ -12,7 +12,7 @@ I'm Jake Jia.
 # Tools
 These are the tools I use in my daily life.
 
-![icons](https://skillicons.dev/icons?i=c,cpp,cs,java,python,go,js,ts,html,css,react,vue,nodejs,dotnet,postgres,redis,vscode,idea,pycharm,git,github,postman,docker,cloudflare,cmake,anaconda,windows,linux,bash,powershell,notion,obsidian,latex,md,discord,gmail&&perline=12)
+![icons](https://skillicons.dev/icons?i=c,cpp,java,python,go,js,ts,html,css,react,vue,nodejs,postgres,redis,vscode,idea,pycharm,git,github,postman,docker,cloudflare,cmake,anaconda,windows,linux,bash,powershell,notion,obsidian,latex,md,discord,gmail&&perline=12)
 
 # Stats [![wakatime](https://wakatime.com/badge/user/018b69cb-8b7f-4040-b110-660a2e54ab60.svg)](https://wakatime.com/@Phoen1xCode)
 I'm using WakaTime to record the time I spend writing code.
