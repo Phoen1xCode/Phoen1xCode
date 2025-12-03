@@ -17,8 +17,8 @@ These are the tools I use in my daily life.
 # Stats [![wakatime](https://wakatime.com/badge/user/018b69cb-8b7f-4040-b110-660a2e54ab60.svg)](https://wakatime.com/@Phoen1xCode)
 I'm using WakaTime to record the time I spend writing code.
 
-[![Phoen1xCode's WakaTime stats - Light](https://github-readme-stats.vercel.app/api/wakatime?username=Phoen1xCode&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Phoen1xCode's WakaTime stats - Dark](https://github-readme-stats.vercel.app/api/wakatime?username=Phoen1xCode&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Phoen1xCode's WakaTime stats - Light](https://github-readme-stats-phoen1xcode.vercel.app/api/wakatime?username=Phoen1xCode&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Phoen1xCode's WakaTime stats - Dark](https://github-readme-stats-phoen1xcode.vercel.app/api/wakatime?username=Phoen1xCode&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <!--
 **Phoen1xCode/Phoen1xCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
